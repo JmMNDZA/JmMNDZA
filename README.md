@@ -5,10 +5,10 @@ I'm John Michael Mendoza. 2nd year BSIT student.
   Education:
 </h2>
 <li>
-  Technological Institute of the Philippines - Quezon City (1st Year)
+  New Era University - Quezon City (2nd Year Onwards)
 </li>
 <li>
-  New Era University - Quezon City (2nd Year Onwards)
+  Technological Institute of the Philippines - Quezon City (1st Year)
 </li>
 <h2>
   Certifications:

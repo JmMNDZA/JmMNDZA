@@ -14,6 +14,9 @@ I'm John Michael Mendoza. 2nd year BSIT student.
   Certifications:
 </h2>
 <li>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3612F3CC931B03B06CC560D2BF16D9513CF64DEA59A0613B3DB63E309B33404">Oracle Cloud Infrastructure 2024 AI Foundations Associate</a>
+</li>
+<li>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3A8921C4D84DD3B2CB9A102FCF096BC6226CABB7D15F70C96486B10AF17360EA">Oracle Cloud Data Management Foundations Associate</a>
 </li>
 <li>

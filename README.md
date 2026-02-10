@@ -1,5 +1,4 @@
 ## Hi there 👋
-I'm John Michael Mendoza. 2nd year BSIT student.
 
 <h2>
   Education:

@@ -32,6 +32,9 @@
   Skillsets:
 </h2>
 <li>
+  Frontend Engineer - React.JS and Laravel
+</li>
+<li>
   Java
 </li>
 <li>
@@ -41,6 +44,13 @@
   SQL
 </li>
 
+<h2>
+  References
+</h2>
+<li>
+  Jedidiah Kiel Pasco
+  https://ph.linkedin.com/in/jedidiah-kiel-pasco-0308a12aa
+</li>
 <!--
 **JmMNDZA/JmMNDZA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

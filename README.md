@@ -32,7 +32,7 @@
   Skillsets:
 </h2>
 <li>
-  **FULLSTACK ENGINEER**
+  ##FULLSTACK ENGINEER
 </li>
 <li>
   React.JS

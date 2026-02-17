@@ -35,10 +35,7 @@
   Frontend Engineer - React.JS and Laravel
 </li>
 <li>
-  Java
-</li>
-<li>
-  C++
+  Backend Engineer - Java and C++
 </li>
 <li>
   SQL

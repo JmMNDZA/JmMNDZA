@@ -25,7 +25,7 @@
   <a href="https://courses.cognitiveclass.ai/certificates/e595c7aaccab4f1f9ce200e1df1edad3">SQL and Relational Databases 101</a>
 </li>
 <li>
-  <a href="https://app.diplomasafe.com/en-US/diploma/dae868bcbedc8651dfef24eac3c1fdeb2f0be3db9/merit_certificate">VPAA's Lister (1st Year, 2nd Semester)</a>
+  <a href="https://app.diplomasafe.com/en-US/diploma/dae868bcbedc8651dfef24eac3c1fdeb2f0be3db9/merit_certificate">VPAA's Lister</a>
 </li>
 
 <h2>

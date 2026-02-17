@@ -32,12 +32,14 @@
   Skillsets:
 </h2>
 <li>
-  Frontend Engineer - React.JS and Laravel
+  **FULLSTACK ENGINEER**
 </li>
 <li>
-  Backend Engineer - Java and C++
-</li>
-<li>
+  React.JS
+  Laravel
+  Flutter
+  Java
+  C++
   SQL
 </li>
 

@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h2>
-  Education:
+  🎓 Education:
 </h2>
 <li>
   New Era University - Quezon City (2nd Year Onwards)
@@ -10,7 +10,7 @@
   Technological Institute of the Philippines - Quezon City (1st Year)
 </li>
 <h2>
-  Certifications:
+  📜 Certifications:
 </h2>
 <li>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3612F3CC931B03B06CC560D2BF16D9513CF64DEA59A0613B3DB63E309B33404">Oracle Cloud Infrastructure 2024 AI Foundations Associate</a>
@@ -29,22 +29,27 @@
 </li>
 
 <h2>
-  Skillsets:
+  🍩 Fullstack Engineer
 </h2>
 <li>
-  ##FULLSTACK ENGINEER
+  React.JS
 </li>
 <li>
-  React.JS
   Laravel
-  Flutter
-  Java
+</li>
+<li>Flutter
+</li>
+<li>Java
+</li>
+<li>
   C++
+</li>
+<li>
   SQL
 </li>
 
 <h2>
-  References
+  📱 References
 </h2>
 <li>
   Jedidiah Kiel Pasco

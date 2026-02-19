@@ -31,28 +31,30 @@
 <h2>
   🍩 Fullstack Engineer
 </h2>
-<li>
-  React.JS
-</li>
-<li>
-  Laravel
-</li>
-<li>Flutter
-</li>
-<li>Java
-</li>
-<li>
-  C++
-</li>
-<li>
-  SQL
-</li>
+<table>
+  <tr>
+    <td>React JS</td>
+    <td>Laravel</td>
+    <td>Flutter</td>
+  </tr>
+    <tr>
+    <td>Java</td>
+    <td>C++</td>
+    <td>Javascript</td>
+  </tr>
+  <tr>
+    <td>MongoDB</td>
+    <td>IBM DB2</td>
+    <td>React Router</td>
+  </tr>
+  
+</table>
 
 <h2>
   📱 References
 </h2>
 <li>
-  Jedidiah Kiel Pasco
+  Jedidiah Kiel Pasco:
   https://ph.linkedin.com/in/jedidiah-kiel-pasco-0308a12aa
 </li>
 <!--
